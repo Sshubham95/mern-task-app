@@ -1,0 +1,23 @@
+{
+  "name": "mern-task-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sshubham95/mern-task-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sshubham95/mern-task-app/issues"
+  },
+  "homepage": "https://github.com/Sshubham95/mern-task-app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
